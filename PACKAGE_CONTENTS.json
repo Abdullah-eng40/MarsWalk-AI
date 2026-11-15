@@ -1,0 +1,22 @@
+{
+  "project": "MarsWalk AI",
+  "team": "AstroNox",
+  "purpose": "Four-hour NASA Mars geospatial terrain-risk and route-planning MVP",
+  "files": [
+    "requirements.txt",
+    ".gitignore",
+    "README.md",
+    "ingestion/__init__.py",
+    "marswalk/__init__.py",
+    "data/raw/.gitkeep",
+    "data/processed/.gitkeep",
+    "ingestion/fetch_mola.py",
+    "marswalk/terrain.py",
+    "marswalk/routing.py",
+    "app.py",
+    "tests/test_terrain.py",
+    "tests/test_routing.py",
+    "MASTER_BUILD_PROMPT.md"
+  ],
+  "note": "Code has not been executed against live NASA data in this generation step."
+}
