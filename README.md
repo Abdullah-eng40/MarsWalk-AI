@@ -1,6 +1,6 @@
-# MarsWalk AI — AstroNox
+# MarsWalk AI — Ares Forge
 
-A four-hour hackathon MVP for exploring terrain risk and route alternatives in Jezero Crater using NASA/PDS Mars elevation data.
+A 2-days hackathon MVP for exploring terrain risk and route alternatives in Jezero Crater using NASA/PDS Mars elevation data.
 
 > **Scientific scope:** This is a research/demo prototype, not an operational astronaut navigation system. The included MOLA MEGDR product is a coarse global elevation grid (16 pixels/degree; roughly 3.7 km per pixel at the equator, somewhat less east-west at Jezero). It cannot resolve boulders, small craters, slopes at human/rover scale, or suit traversability. The risk score and thresholds are illustrative engineering choices, not NASA standards or certified safety guidance.
 
