@@ -24,6 +24,7 @@ py -3.11 -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install --upgrade pip
 pip install -r requirements.txt
+python -m ingestion.fetch_hirise
 python -m ingestion.fetch_mola
 streamlit run app.py
 ```
